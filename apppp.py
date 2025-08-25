@@ -8,4 +8,4 @@ def main():
     print(f"Sum of {a} and {b} is {a + b}")
 
 if _name_ == "_main_":
-    main()
+    main1(apple)
